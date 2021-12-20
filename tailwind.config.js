@@ -99,13 +99,12 @@ module.exports = {
         "8/12": "66.66666667%",
       },
       colors: {
-        cyan: withOpacity("--color-cyan"),
-        red: withOpacity("--color-red"),
-        "dark-violet": withOpacity("--color-dark-violet"),
-        gray: withOpacity("--color-gray"),
-        "grayish-violet": withOpacity("--color-grayish-violet"),
+        orange: withOpacity("--color-orange"),
+        "pale-orange": withOpacity("--color-pale-orange"),
+        "dark-grayish-blue": withOpacity("--color-dark-grayish-blue"),
         "very-dark-blue": withOpacity("--color-very-dark-blue"),
-        "very-dark-violet": withOpacity("--color-very-dark-violet"),
+        "light-grayish-blue": withOpacity("--color-light-grayish-blue"),
+        "grayish-blue": withOpacity("--color-grayish-blue"),
       },
       height: {
         92: "23rem",
